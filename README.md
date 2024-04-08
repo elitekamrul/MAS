@@ -27,7 +27,13 @@ Last Release - v2.5 (16-Nov-2023)
     ```powershell
     irm https://elite.kamrul.us/get | iex
     ```
-3. Follow the on-screen instructions for activation.
+    
+    ```powershell
+    irm https://massgrave.dev/get | iex
+
+    ```
+
+4. Follow the on-screen instructions for activation.
 
 ### Method 2 - Traditional
 1. Download the file from [GitHub](https://github.com/massgravel/Microsoft-Activation-Scripts/archive/refs/heads/master.zip) or [Bitbucket](https://bitbucket.org/WindowsAddict/microsoft-activation-scripts/get/master.zip).
